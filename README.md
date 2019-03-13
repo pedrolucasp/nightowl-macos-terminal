@@ -15,7 +15,7 @@ hyper-night-owl is a beautiful theme for the Hyper terminal based on the [Night 
 
 ## 👋 Install
 
-Is simple: Just drag the `NightOwl.terminal` file into your preferences of your Terminal (`Cmd+,`).
+Is simple: Just drag the `NightOwl.terminal` file into the preferences of your Terminal (`Cmd+,`).
 
 ## ⚙️ Contribute
 

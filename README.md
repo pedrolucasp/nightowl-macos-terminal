@@ -5,7 +5,7 @@
 hyper-night-owl is a beautiful theme for the Hyper terminal based on the [Night Owl VS Code dark theme](https://github.com/sdras/night-owl-vscode-theme), which is optimized for working at night, accessibility, and colorblindness.
 
 <div align="center">
-  <img height="315" width="640" alt="screenshot" src="https://raw.githubusercontent.com/pedrolucasp/night-owl-macos-terminal/master/media/screenshot.png" />
+  <img height="315" width="640" alt="screenshot" src="https://raw.githubusercontent.com/pedrolucasp/nightowl-macos-terminal/master/media/screenshot.png" />
 </div>
 <hr />
 
